@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538590837 source:c:\users\mason\desktop\hw4_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
